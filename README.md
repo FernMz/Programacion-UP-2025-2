@@ -1,4 +1,4 @@
-# Curso de Programación Avanzada
+# Curso de Programación Avanzada en Python y C++
 
 ¡Bienvenido/a al repositorio del curso de Programación Avanzada! 
 
