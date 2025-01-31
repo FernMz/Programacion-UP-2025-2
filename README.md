@@ -1,6 +1,6 @@
 # Curso de Programación Avanzada en Python y C++
 
-¡Bienvenido/a al repositorio del curso de Programación Avanzada! 
+¡Bienvenido/as al repositorio del curso de Programación Avanzada! 
 
 En este repositorio encontrarás:
 
