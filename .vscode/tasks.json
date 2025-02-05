@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: g++.exe build active file",  // Cambia la etiqueta para reflejar que usas g++
-            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",  // Cambia gcc.exe a g++.exe
+            "label": "C/C++: g++.exe build active file",  
+            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",  
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
